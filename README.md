@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <b>A collection of bss scripts</b>
+  <b>Discord: @aaaggzz</b>
   <br>
-  👽 All open source 👽
+  🔱 Contact me for support 🔱
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
